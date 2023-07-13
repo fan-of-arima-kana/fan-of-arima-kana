@@ -1,6 +1,6 @@
-# Bubble Jam
+# Bubble Boy
 The King of Bubble Tea
-<h1 align="center">Hi 👋, I'm jam</h1>
+<h1 align="center">Hi 👋, I'm BBboy</h1>
 <h3 align="center">Never resign when you still have hassar.</h3>
 
 - 🔭 I’m currently working on **BubbleTeaBI**
