@@ -1,6 +1,6 @@
 # Bubble Boy
 The King of Bubble Tea
-<h1 align="center">Hi 👋, I'm BBboy</h1>
+<h1 align="center">Hi 👋, I'm arima kana boy</h1>
 <h3 align="center">Never resign when you still have hassar.</h3>
 
 - 🔭 I’m currently working on **BubbleTeaBI**
@@ -9,7 +9,7 @@ The King of Bubble Tea
 
 - 👯 I’m looking to collaborate on **Bioinformatics**
 
-- 💬 Ask me about **metagenomics, sf, and astrobiology**
+- 💬 Ask me about **sf**
 
 - 📫 How to reach me **github**
 
