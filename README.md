@@ -1,11 +1,11 @@
-# Bubble Boy
-The King of Bubble Tea
-<h1 align="center">Hi 👋, I'm arima kana boy</h1>
+# Kana's fna
+The fan of Arima Kana
+<h1 align="center">Hi 👋, I'm Kana's fna</h1>
 <h3 align="center">Never resign when you still have hassar.</h3>
 
-- 🔭 I’m currently working on **BubbleTeaBI**
+- 🔭 I’m currently working on **ACTGenomics**
 
-- 🌱 I’m currently learning **python and CICD**
+- 🌱 I’m currently learning **WGS/WES, Python, Algorithm**
 
 - 👯 I’m looking to collaborate on **Bioinformatics**
 
