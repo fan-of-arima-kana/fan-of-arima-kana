@@ -1,6 +1,6 @@
-# Kana's fna
+# Kana's fan
 The fan of Arima Kana
-<h1 align="center">Hi 👋, I'm Kana's fna</h1>
+<h1 align="center">Hi 👋, I'm Kana's fan</h1>
 <h3 align="center">Never resign when you still have hassar.</h3>
 
 - 🔭 I’m currently working on **ACTGenomics**
